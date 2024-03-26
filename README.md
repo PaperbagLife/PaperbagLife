@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Come play my games on my [Personal Website](https://paperbaglife.github.io/#/)!
 <!--
 **PaperbagLife/PaperbagLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
